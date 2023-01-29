@@ -47,8 +47,8 @@ https://github.com/mobius77/epam/blob/main/hometasks/Networking/7.%20result%20on
 14. Servers IPTABLE rules: 
 https://github.com/mobius77/epam/blob/main/hometasks/Networking/7.%20server%20iptables.png
 
-15. Server's IPTABLE rules after enabling NAT
+15. Server's IPTABLE rules after enabling NAT: 
 https://github.com/mobius77/epam/blob/main/hometasks/Networking/8.%20iptable%20rule%20to%20enable%20nat.png
 
-16. Traceroute for Client2 afler NAT
+16. Traceroute for Client2 afler NAT: 
 https://github.com/mobius77/epam/blob/main/hometasks/Networking/8%20client%202%20traceroute.png
