@@ -1,10 +1,10 @@
 Scripst for hometask:
 
-1. Task1:
-https://github.com/mobius77/epam/blob/main/hometasks/linuxBash/taskA.sh
+1. <a href="https://github.com/mobius77/epam/blob/main/hometasks/linuxBash/taskA.sh">Task1</a>
 
-2. Task2:
-https://github.com/mobius77/epam/blob/main/hometasks/linuxBash/taskB.sh
 
-3. Task3:
-https://github.com/mobius77/epam/blob/main/hometasks/linuxBash/taskC.sh
+2. <a href="https://github.com/mobius77/epam/blob/main/hometasks/linuxBash/taskB.sh">Task2</a>
+
+
+3. <a href="https://github.com/mobius77/epam/blob/main/hometasks/linuxBash/taskC.sh">Task3</a>
+
