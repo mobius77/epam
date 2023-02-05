@@ -1,5 +1,7 @@
 FINAL PROJECT
 
+<a href="https://github.com/mobius77/epam/blob/main/finalproject/presentation.pptx" target="blank">Presentation</a>
+
 1. <a href="https://github.com/mobius77/epam_terraform" target="blank">Terraform config</a>
 
 
