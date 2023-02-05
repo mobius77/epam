@@ -1,10 +1,9 @@
 FINAL PROJECT
 
-1. Terraform config:
+1. <a href="https://github.com/mobius77/epam_terraform" target="blank">Terraform config</a>
 
 
-2. Jenkins pipelines:
+2. <a href="https://github.com/mobius77/epam_jenkins" target="blank">Jenkins pipelines</a>
 
 
-
-3. Docker config
+3. <a href="https://github.com/mobius77/epam/tree/main/finalproject/Docker" target="blank">Docker config</a>
